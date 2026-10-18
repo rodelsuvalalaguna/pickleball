@@ -1,0 +1,17 @@
+bin/
+obj/
+node_modules/
+.nuxt/
+.output/
+dist/
+.vs/
+.vscode/
+*.user
+
+# secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+appsettings.Production.json
+secrets.json

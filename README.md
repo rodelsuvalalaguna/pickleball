@@ -2,7 +2,7 @@
 # Pickleball Court Booking
 
 - `backend/` ASP.NET Core 8 Web API, EF Core 8 (SQL Server), JWT + refresh tokens
-- `frontend/` Nuxt 3, Tailwind
+- `frontend/` Vue, Nuxt 3, Tailwind
 
 ## Run locally
 

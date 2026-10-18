@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pickleball Court Booking
 
 - `backend/` ASP.NET Core 8 Web API, EF Core 8 (SQL Server), JWT + refresh tokens
@@ -33,3 +34,8 @@ Local dev with user secrets: `dotnet user-secrets set "Jwt:Key" "<random 64 char
 - SQL Server/Azure SQL: no public endpoint; private VNet/private endpoint or firewall allowlist of the API host only; prefer managed identity auth.
 - Behind a reverse proxy, configure `UseForwardedHeaders` so rate limiting sees client IPs.
 - Terminate HTTPS at the API/proxy; HSTS is enabled outside Development.
+=======
+# pickleball
+
+test project
+>>>>>>> 0867d83dcadd51b98a608c09c13f4aef81f9f6b8
